@@ -1,0 +1,7 @@
+C:\Users\I\source\repos\tracert\tracert\bin\Debug\tracert.exe.config
+C:\Users\I\source\repos\tracert\tracert\bin\Debug\tracert.exe
+C:\Users\I\source\repos\tracert\tracert\bin\Debug\tracert.pdb
+C:\Users\I\source\repos\tracert\tracert\obj\Debug\tracert.csprojResolveAssemblyReference.cache
+C:\Users\I\source\repos\tracert\tracert\obj\Debug\tracert.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\tracert\tracert\obj\Debug\tracert.exe
+C:\Users\I\source\repos\tracert\tracert\obj\Debug\tracert.pdb
